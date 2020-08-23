@@ -3,7 +3,7 @@ import numpy as np
 import cv2 as cv
 from matplotlib import pyplot as plt
 
-from Logic.ImageMethod.change_color import ChangeColorImageMethod
+from Logic.ImageMethod.ChangeColor import ChangeColorImageMethod
 
 
 def main():
